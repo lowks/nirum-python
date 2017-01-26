@@ -71,7 +71,7 @@ else:
 setup(
     name='nirum',
     version=get_version(),
-    description='',
+    description='Nirum runtime library for Python',
     long_description=readme(),
     url='https://github.com/spoqa/nirum-python',
     author='Kang Hyojun',
